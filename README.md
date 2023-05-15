@@ -1,1 +1,1 @@
-
+Welcome to this exciting analysis of world population data! In this notebook, we'll be diving into some fascinating information about the distribution of people around the globe. The data we'll be using comes from the world_population.csv file, which contains information on population by country for years from 1970 to 2022.
